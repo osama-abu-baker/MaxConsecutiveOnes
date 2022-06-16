@@ -1,0 +1,15 @@
+/home/os-technologies/MaxConsecutiveOnes/bin/Debug/net6.0/MaxConsecutiveOnes
+/home/os-technologies/MaxConsecutiveOnes/bin/Debug/net6.0/MaxConsecutiveOnes.deps.json
+/home/os-technologies/MaxConsecutiveOnes/bin/Debug/net6.0/MaxConsecutiveOnes.runtimeconfig.json
+/home/os-technologies/MaxConsecutiveOnes/bin/Debug/net6.0/MaxConsecutiveOnes.dll
+/home/os-technologies/MaxConsecutiveOnes/bin/Debug/net6.0/ref/MaxConsecutiveOnes.dll
+/home/os-technologies/MaxConsecutiveOnes/bin/Debug/net6.0/MaxConsecutiveOnes.pdb
+/home/os-technologies/MaxConsecutiveOnes/obj/Debug/net6.0/MaxConsecutiveOnes.csproj.AssemblyReference.cache
+/home/os-technologies/MaxConsecutiveOnes/obj/Debug/net6.0/MaxConsecutiveOnes.GeneratedMSBuildEditorConfig.editorconfig
+/home/os-technologies/MaxConsecutiveOnes/obj/Debug/net6.0/MaxConsecutiveOnes.AssemblyInfoInputs.cache
+/home/os-technologies/MaxConsecutiveOnes/obj/Debug/net6.0/MaxConsecutiveOnes.AssemblyInfo.cs
+/home/os-technologies/MaxConsecutiveOnes/obj/Debug/net6.0/MaxConsecutiveOnes.csproj.CoreCompileInputs.cache
+/home/os-technologies/MaxConsecutiveOnes/obj/Debug/net6.0/MaxConsecutiveOnes.dll
+/home/os-technologies/MaxConsecutiveOnes/obj/Debug/net6.0/ref/MaxConsecutiveOnes.dll
+/home/os-technologies/MaxConsecutiveOnes/obj/Debug/net6.0/MaxConsecutiveOnes.pdb
+/home/os-technologies/MaxConsecutiveOnes/obj/Debug/net6.0/MaxConsecutiveOnes.genruntimeconfig.cache
