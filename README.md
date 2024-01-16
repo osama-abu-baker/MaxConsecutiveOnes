@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 # MaxConsecutiveOnes (C#)
 This repository contains a C# program, MaxConsecutiveOnes, designed to efficiently find the maximum number of consecutive ones in a binary array. The program takes an input array consisting of only 0s and 1s, utilizing an optimized algorithm to determine the length of the longest consecutive subarray of 1s.
 
